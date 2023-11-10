@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gTbwmFc2SVCMOfyFJpayeJ5PDctM1luCB+PP/k16oHRd5OvabzrGCOSN0k0HuiZWVYc8avCOy4IzZ/ug+xPgHw==",
+  "dgSpecHash": "/psDmYPGwl4BQgdXqmYi7jTos6v0PMHlEvcKbZhORj7CCzD6g0F5Bn7sbfe6BEx5wT+xR2f8MKlnA1SlwLQVnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab9\\HaydenUniversity\\HaydenUniversity.csproj",
+  "projectFilePath": "c:\\Users\\Hayden\\Documents\\CSCI 340\\Github\\csci340lab9\\HaydenUniversity\\HaydenUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hayden\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Hayden\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

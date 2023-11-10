@@ -9,61 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HaydenUniversity
 build_property.RootNamespace = HaydenUniversity
-build_property.ProjectDir = C:\Users\Hayden\Documents\CSCI 340\Github\csci340lab9\HaydenUniversity\
+build_property.ProjectDir = c:\Users\Hayden\Documents\CSCI 340\Github\csci340lab9\HaydenUniversity\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Hayden\Documents\CSCI 340\Github\csci340lab9\HaydenUniversity
+build_property.MSBuildProjectDirectory = c:\Users\Hayden\Documents\CSCI 340\Github\csci340lab9\HaydenUniversity
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/About.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Error.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Index.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Privacy.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Instructors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Instructors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Instructors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Instructors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Instructors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5zdHJ1Y3RvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Students/Create.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Students/Delete.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Students/Details.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Students/Edit.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Students/Index.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/_ViewImports.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/_ViewStart.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Shared/_Layout.cshtml]
+[c:/Users/Hayden/Documents/CSCI 340/Github/csci340lab9/HaydenUniversity/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-68kvhfuxof
